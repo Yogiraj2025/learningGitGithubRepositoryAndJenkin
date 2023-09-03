@@ -15,7 +15,7 @@ public class Example_Simple
 		int b=30;
 		System.out.println("Addition:"+(a+b));
 		
-		
+	//check update and commit
 /*	public static void addition1()//just reference point of view directly copied.
 	{
 		int a=200,b=300,sum;
